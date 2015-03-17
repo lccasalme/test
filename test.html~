@@ -3,7 +3,7 @@
 	<link rel="stylesheet" type="text/css" href="test.css">
 </head>
 <body>
-	<h1>Welcome World!</h1>
+	<h1>Hello World!</h1>
 	<img src="image.jpg"/>
 	<p>Casalme, Christian Lorenz C.<br>
 	2012-77304<br>
